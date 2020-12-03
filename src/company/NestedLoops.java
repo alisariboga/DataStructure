@@ -11,5 +11,5 @@ public class NestedLoops {
             System.out.println("");
         }
     }
-    // yazdirdigimiz ucgeni tamamla!
+    // Complete Triangle!!!
 }
